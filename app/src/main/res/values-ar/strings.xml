@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الاكتيفتي السنجل</string>
+    <string name="google_def">جوجل أو غوغل أو قوقل ‏ هي شركة أمريكية عامة متخصصة في مجال الإعلان المرتبط بخدمات البحث على الإنترنت وإرسال رسائل بريد إلكتروني عن طريق جي ميل. واختير اسم جوجل الذي يعكس المُهمة التي تقوم بها الشركة، وهي تنظيم ذلك الكم الهائل من المعلومات المُتاحة على الويب.</string>
+    <string name="google_address">كاليفورنيا أمريكا</string>
+    <string name="google_link"><u>google.com</u></string>
+</resources>

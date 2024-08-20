@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Single Activity App</string>
+    <string name="google_def">Google or Google or Google is an American public company specializing in advertising related to Internet search services and sending e-mail messages via Gmail. The name Google was chosen to reflect the mission that the company performs, which is to organize the vast amount of information available on the web.</string>
+    <string name="google_address">Mountain View California, US</string>
+    <string name="google_link"><u>google.com</u></string>
+</resources>
